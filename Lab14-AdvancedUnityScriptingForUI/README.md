@@ -1,0 +1,1 @@
+This file includes a dialog system that I created for our most recent game. The code is included in the git. I also have an animation to show the dialogue populating in and out that was not working at the time of the video. But it is now functional.
